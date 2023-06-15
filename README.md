@@ -1,1 +1,1 @@
-# Mini_Project-Convert_images_to_Grey_Scale
+# Mini Project - Convert images to Grey Scale
